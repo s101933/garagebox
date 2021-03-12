@@ -10,5 +10,5 @@
 <!-- NIET VERWIJDEREN -->
 
 <?php
-	echo "Dit is een test en dit is nieuw";
+	echo "Dit is de website voor de Garagebox";
 ?>
