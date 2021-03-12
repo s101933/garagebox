@@ -11,4 +11,5 @@
 
 <?php
 	echo "Dit is de website voor de Garagebox";
+	echo "Bilbo fucks bad bitches"
 ?>
