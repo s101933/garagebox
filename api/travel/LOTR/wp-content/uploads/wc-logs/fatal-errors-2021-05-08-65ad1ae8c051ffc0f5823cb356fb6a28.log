@@ -1,0 +1,168 @@
+2021-05-08T20:04:16+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:04:21+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:04:23+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\plugin-install.php(15): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:04:24+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:04:28+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\plugin-install.php(15): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:04:37+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\plugin-install.php(15): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:04:41+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:04:54+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:13:41+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:13:53+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:13:56+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
+2021-05-08T20:14:01+00:00 CRITICAL Uncaught Error: Call to undefined function determine_locale() in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php:623
+Stack trace:
+#0 C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php(591): WooCommerce->load_plugin_textdomain()
+#1 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(298): WooCommerce->init('')
+#2 C:\xampp\htdocs\LOTR\wp-includes\class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\LOTR\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\LOTR\wp-settings.php(449): do_action('init')
+#5 C:\xampp\htdocs\LOTR\wp-config.php(89): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\LOTR\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\LOTR\wp-admin\admin.php(31): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\LOTR\wp-admin\post.php(12): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\LOTR\wp-content\plugins\woocommerce\includes\class-woocommerce.php on line 623
+
