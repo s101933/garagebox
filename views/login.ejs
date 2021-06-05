@@ -1,0 +1,20 @@
+<% include ./header.ejs %>
+<div class="small-container">
+    <h3 name="login" class="center" style="margin: 24px 0;">Log in je account</h3>
+    <form onsubmit="return false">
+        <div class="mb-3">
+        <label for="email" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="email" required>
+        </div>
+        <div class="mb-3">
+            <label for="password" class="form-label">Password</label>
+            <input minlength="8" type="password" class="form-control" id="password" required>
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="checkbox">
+            <label class="form-check-label" for="checkbox">Remember me</label>
+        </div>
+        <button onclick="validateForm('login')" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+<% include ./footer.ejs %>

@@ -1,0 +1,192 @@
+@font-face {
+    font-family: RingBearer;
+    src: url(/fonts/RingBearer.TTF);
+}
+@font-face {
+    font-family: EASports;
+    src: url(/fonts/EA_Sports.ttf);
+}
+@font-face {
+    font-family: Lego;
+    src: url(/fonts/Lego.TTF);
+}
+@font-face {
+    font-family: Fortnite;
+    src: url(/fonts/Fortnite.otf);
+}
+
+.center {
+    text-align: center;
+    font-weight: bold;
+}
+
+.question-container {
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+    position: relative;
+}
+
+.button-container {
+    text-align: center; 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 35px;
+
+}
+
+.button-text {
+    width: 20%;
+    padding: 20px 0;
+    border-style: solid;
+    border-color: #d9a441;
+    color: #d9a441;
+    border-width: 5px;
+}
+
+.question-title {
+    color: #d9a441;
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    font-size: 1.2rem;
+}
+
+.fade-in {      
+  animation: fadeIn 5s;
+  -webkit-animation: fadeIn 5s;
+  -moz-animation: fadeIn 5s;
+  -o-animation: fadeIn 5s;
+  -ms-animation: fadeIn 5s;
+}
+
+.fade-in-fast{
+    animation: fadeIn 1s;
+    -webkit-animation: fadeIn 1s;
+    -moz-animation: fadeIn 1s;
+    -o-animation: fadeIn 1s;
+    -ms-animation: fadeIn 1s;
+}
+
+.lotr-thema {
+    width: 100%; overflow: hidden; position: relative;
+}
+.lotr-thema > img{
+    position: fixed; z-index: -1; opacity: 0.075; overflow: hidden; top: 50%; left: 50%; width: 100%; transform: translate(-50%, -50%);
+}
+
+.lotr-title {
+    text-align: center; 
+    font-family: RingBearer; 
+    font-size: 5rem; 
+    margin: 35px auto; 
+    color: #D9A441; 
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+.my-button {    
+    color: #D9A441!important;
+    background-color: transparent!important;
+    background-image: none!important;
+    border-color: #D9A441!important;
+    border-width: 5px!important;
+    border-radius: 0%!important;
+    padding: 10px 50px!important;
+    font-weight: 900!important;
+}
+
+.my-button:hover {    
+    background-color: #D9A441!important;
+    color: #212529!important;
+}
+
+
+
+@-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 5px rgba(255, 255, 255, 0.199), 0 0 10px rgba(255, 255, 255, 0.185), 0 0 15px #d9a44165, 0 0 20px #d9a44165;
+    }
+    
+    to {
+      text-shadow: 0 0 10px rgba(255, 255, 255, 0.336), 0 0 15px #d9a44165, 0 0 20px #d9a44165, 0 0 25px #d9a44165;
+    }
+  }
+
+  .card-text {
+    position: absolute; 
+    left: 50%; 
+    top: 50%; 
+    transform: 
+    translate(-50%, -50%); 
+    font-weight: 900; 
+    width: 100%; 
+    text-align: center; 
+    padding: 24px 0; 
+    font-size: 2rem;
+    pointer-events: none;
+    color: white;
+  }
+
+  .card {
+      background-color: #212529!important;
+      cursor: pointer;
+  }
+
+  .card img:hover {
+      opacity: 20%;
+  }
+
+  
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+
+  .results {
+    margin-bottom: 50px; 
+    color: whitesmoke; 
+    max-width: 500px; 
+    margin: 50px auto;
+  }
+
+  .points {
+    text-align: center; 
+    font-size: 5.0rem;
+  }
+
+  .state {
+    text-align: center;
+  }
+
+  .small-container {
+    color: white;
+    margin: 50px 0;
+  }
+
+  .small-container form{
+      max-width: 350px;
+      margin: auto;
+  }
